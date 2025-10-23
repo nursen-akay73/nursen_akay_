@@ -1,13 +1,13 @@
 
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nursen%20Akay&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nurşen%20Akay&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nursen;Software+Engineering+Student;Web+Development+%7C+Mobile+Apps+%7C+AI;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nurşen;Software+Engineering+Student;Web+Development+%7C+Mobile+Apps+%7C+AI;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
