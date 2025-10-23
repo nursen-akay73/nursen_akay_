@@ -33,7 +33,8 @@ I am passionate about **web development, mobile applications, and artificial int
 
 )  
 - 📧 [Email](akay4061513@gmail.com)  
-- 🌐 [Portfolio Website]([(https://royalguzellksalonu.netlify.app/)](https://royalguzellksalonu.netlify.app/))  
+- 🌐 [Portfolio Website]
+  ([(https://royalguzellksalonu.netlify.app/)](https://royalguzellksalonu.netlify.app/))  
 
 ---
 
