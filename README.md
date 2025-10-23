@@ -1,13 +1,12 @@
-
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nurşen%20Akay&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nursen%20Akay&fontSize=50&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nurşen;Software+Engineering+Student;Web+Development+%7C+Mobile+Apps+%7C+AI;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nursen;Software+Engineering+Student;Web+Development+%7C+Mobile+Apps+%7C+AI;Always+Learning+%26+Building" alt="Typing SVG" />
   </a>
 </p>
 
@@ -44,7 +43,7 @@ I am passionate about **web development, mobile applications, and artificial int
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="www.linkedin.com/in/nursen-akay-470624204">
+  <a href="https://www.linkedin.com/in/nursen-akay-470624204">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:akay4061513@gmail.com">
@@ -83,4 +82,3 @@ I am passionate about **web development, mobile applications, and artificial int
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
