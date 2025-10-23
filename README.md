@@ -29,7 +29,9 @@ I am passionate about **web development, mobile applications, and artificial int
 ---
 
 ## 📫 Connect with Me
-- 💼 [LinkedIn](www.linkedin.com/in/nurşen-akay-470624204)  
+- 💼 [LinkedIn](www.linkedin.com/in/nurşen-akay-470624204
+
+)  
 - 📧 [Email](akay4061513@gmail.com)  
 - 🌐 [Portfolio Website]((https://royalguzellksalonu.netlify.app/))  
 
