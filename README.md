@@ -1,5 +1,5 @@
 # nursen_akay_
-# 👋 Hello! I'm Nursen  
+# 👋 Hello! I'm Nurşen  
 
 I am a Software Engineering student at Istanbul Health and Technology University.  
 I am passionate about **web development, mobile applications, and artificial intelligence**.  
