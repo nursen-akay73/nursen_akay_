@@ -1,12 +1,12 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Nursen%20Akay&fontSize=50&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=NURSEN%20AKAY&fontSize=55&fontAlignY=35&animation=twinkling" />
 </p>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hello!+I'm+Nursen;Software+Engineering+Student;Web+Development+%7C+Mobile+Apps+%7C+AI;Always+Learning+%26+Building" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;Backend+%7C+Web+%7C+Mobile+%7C+AI;Prompt+Engineering+Enthusiast;n8n+%7C+Blockchain+%7C+Automation;Always+Learning+%26+Always+Building" />
   </a>
 </p>
 
@@ -14,29 +14,30 @@
 
 ## 👩‍💻 About Me  
 
-I am a *Software Engineering student* passionate about building systems that combine  
-🧠 **Artificial Intelligence**, ⚙️ **Backend Logic**, and 🌍 **Real-World Impact**.
+I am a **Software Engineering student** passionate about building systems that combine  
+🧠 **Artificial Intelligence**, ⚙️ **Backend Architecture**, and 🌍 **Real-World Impact**.
 
-• 🌐 I build responsive web applications with *HTML, CSS & JavaScript*  
-• 📱 I develop mobile apps with *React Native*  
-• 🤖 I explore *AI, NLP, and Deep Learning*  
-• 🔗 I am interested in *Blockchain & decentralized systems*  
-• ⚙️ I enjoy working on *backend architecture*  
-• 🔄 I build automation workflows using *n8n*  
-• 🗄️ I work with *SQL & database systems*  
+• 🌐 I build responsive web applications with **HTML, CSS & JavaScript**  
+• 📱 I develop mobile applications with **React Native**  
+• ⚙️ I enjoy working on **backend systems & server-side logic**  
+• 🤖 I explore **AI, NLP, and Deep Learning**  
+• 🧠 I practice and improve in **Prompt Engineering**  
+• 🔗 I am interested in **Blockchain & decentralized systems**  
+• 🔄 I build automation workflows using **n8n**  
+• 🗄️ I work with **SQL & database systems**  
 
-I love turning ideas into scalable and intelligent solutions.
+I love turning ideas into scalable, intelligent, and meaningful products.
 
 ---
 
 ## 🚀 Current Focus  
 
 🔹 Backend-heavy applications  
-🔹 AI-powered systems  
-🔹 Prompt Engineering  
+🔹 AI-powered healthcare systems  
+🔹 Prompt engineering & LLM optimization  
 🔹 NLP & Deep Learning fundamentals  
 🔹 Blockchain integrations  
-🔹 Automation-based platforms  
+🔹 Automation-based digital platforms  
 
 ---
 
@@ -53,16 +54,16 @@ I love turning ideas into scalable and intelligent solutions.
 </p>
 
 ### 🤖 Areas of Interest
-Artificial Intelligence • NLP • Blockchain • Backend Systems • Automation • Databases
+Artificial Intelligence • NLP • Deep Learning • Blockchain • Backend Systems • Automation • Databases
 
 ---
 
 ## ✨ How I Define Myself  
 
 • Curious  
-• Solution-Oriented  
 • Analytical Thinker  
 • Builder Mindset  
+• Solution-Oriented  
 • Lifelong Learner  
 
 ---
@@ -70,17 +71,20 @@ Artificial Intelligence • NLP • Blockchain • Backend Systems • Automatio
 ## 🌍 Platforms & Writing  
 
 <p align="center">
+  <a href="https://nursenakay.com">
+    <img src="https://img.shields.io/badge/Portfolio-nursenakay.com-111111?style=for-the-badge&logo=google-chrome" />
+  </a>
   <a href="https://www.linkedin.com/in/nursenakay">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://www.kaggle.com/nurenakay">
     <img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle" />
   </a>
   <a href="https://medium.com/@akay4061513">
-    <img src="https://img.shields.io/badge/Medium-Blog-black?style=for-the-badge&logo=medium" />
+    <img src="https://img.shields.io/badge/Medium-Blog-000000?style=for-the-badge&logo=medium" />
   </a>
   <a href="mailto:akay4061513@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail" />
   </a>
 </p>
 
@@ -89,12 +93,12 @@ Artificial Intelligence • NLP • Blockchain • Backend Systems • Automatio
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nursen-akay73&show_icons=true&theme=radical" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=nursen-akay73&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nursen-akay73&show_icons=true&theme=radical" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=nursen-akay73&theme=radical" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nursen-akay73&layout=compact&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nursen-akay73&layout=compact&theme=radical" height="160"/>
 </p>
 
 ---
@@ -113,5 +117,5 @@ Artificial Intelligence • NLP • Blockchain • Backend Systems • Automatio
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=140&section=footer" />
 </p>
