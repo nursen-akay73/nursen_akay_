@@ -1,136 +1,87 @@
+<h1 align="center">NURSEN AKAY</h1>
 
-🌿 Nursen Akay
-Web Development | Mobile Apps | AI
-<p align="center"> <b>Software Engineering Student</b> </p>
-👩‍💻 About Me
+<p align="center">
+  <b>Web Development | Mobile Apps | AI</b>
+</p>
 
-I am a Software Engineering student passionate about building real-world systems that combine backend logic, AI, and scalable architectures.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=3BAFDA&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Backend+Enthusiast;AI+%26+NLP+Explorer;Blockchain+Learner;Prompt+Engineering+Lover" />
+</p>
 
-I enjoy working on:
+---
 
-🌐 Web development (HTML, CSS, JavaScript)
+## 👩‍💻 About Me
 
-📱 Mobile applications (React Native)
+I am a **Software Engineering student** who enjoys building systems that combine  
+🧠 intelligence, ⚙️ logic, and 🌍 real-world impact.
 
-🧠 Artificial Intelligence & NLP
+- 🌐 I build websites with **HTML, CSS, JavaScript**
+- 📱 I develop mobile apps with **React Native**
+- 🤖 I explore **AI, NLP & Deep Learning**
+- 🔗 I am interested in **Blockchain systems**
+- ⚙️ I love working on **backend architecture**
+- 🔄 I build automation workflows with **n8n**
+- 🗄️ I work with **SQL & database systems**
 
-🔗 Blockchain systems
+I enjoy designing systems that **think, automate and scale**.
 
-⚙️ Backend development & system design
+---
 
-🤖 Automation systems (n8n)
+## 🚀 What I'm Focused On
 
-🗄️ Database design & SQL
+✨ Backend-heavy applications  
+✨ AI-powered systems  
+✨ Prompt engineering  
+✨ Blockchain-integrated platforms  
+✨ Automation-based tools  
 
-I am currently exploring Deep Learning, NLP, and AI-driven applications, while continuously improving my backend engineering skills.
+---
 
-💡 I love building systems that think, automate, and scale.
+## 🧠 AI & Engineering Journey
 
-🧠 Areas of Interest
-🤖 Artificial Intelligence
+Currently learning and improving in:
 
-Machine Learning fundamentals
+- Deep Learning fundamentals
+- NLP systems
+- AI-driven automation
+- Prompt optimization
+- Backend system architecture
 
-Deep Learning (learning & experimenting)
+I believe in building while learning.
 
-NLP systems
+---
 
-Prompt Engineering
+## 🛠 Tech Stack
 
-AI-powered health & automation systems
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,html,css,sql" />
+</p>
 
-🔗 Blockchain
+### ⚙️ Backend & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,react,git,github" />
+</p>
 
-Smart contract logic
+### 🤖 Interests
+- Artificial Intelligence
+- NLP
+- Blockchain
+- n8n Automation
+- Database Systems
 
-Decentralized system thinking
+---
 
-Web3 concepts & token-based ecosystems
+## 🌍 Personal Website
 
-⚙️ Backend Engineering
+🔗 **nurşenakay.com**
 
-JavaScript (Node.js ecosystem)
+---
 
-API design
+## ✨ Philosophy
 
-RESTful services
+<h3 align="center">Always learning & always building.</h3>
 
-Database modeling
-
-Scalable system architecture
-
-🔄 Automation & Systems
-
-n8n workflow automation
-
-API integrations
-
-Data pipelines
-
-Modular backend design
-
-🚀 Current Focus
-
-AI-assisted health systems
-
-Backend-heavy applications
-
-Blockchain-integrated platforms
-
-Automation-based tools
-
-Prompt engineering experiments
-
-🛠 Tech Stack
-
-Languages & Core
-
-JavaScript
-
-SQL
-
-HTML / CSS
-
-Frontend
-
-React
-
-React Native
-
-Backend
-
-Node.js
-
-REST APIs
-
-Database systems
-
-AI & Data
-
-Machine Learning basics
-
-NLP
-
-Prompt Engineering
-
-Data structuring & analysis
-
-Other Interests
-
-Blockchain
-
-n8n automation
-
-System architecture design
-
-🌍 Personal Website
-
-🔗 nurşenakay.com
-(Professional portfolio & projects)
-
-✨ How I Define Myself
-
-Always learning & always building.
-
-I don’t just study software engineering —
-I build, test, break, fix, automate, optimize and improve.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
