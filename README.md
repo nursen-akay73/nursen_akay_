@@ -71,7 +71,7 @@ Artificial Intelligence • NLP • Deep Learning • Blockchain • Backend Sys
 ## 🌍 Platforms & Writing  
 
 <p align="center">
-  <a href="https://nursenakay.com">
+  <a href="https://xn--nurenakay-22b.com">
     <img src="https://img.shields.io/badge/Portfolio-nursenakay.com-111111?style=for-the-badge&logo=google-chrome" />
   </a>
   <a href="https://www.linkedin.com/in/nursenakay">
