@@ -101,6 +101,22 @@ Artificial Intelligence • NLP • Blockchain • Backend Systems • Automatio
 
 ## 🏆 Achievements  
 
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pair-extraordinaire-default.png" width="90" alt="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="90" alt="Pull Shark"/>
+  <img src="https://github.githubassets.com/images/modules/profile/achievements/arctic-code-vault-contributor-default.png" width="90" alt="Arctic Code Vault Contributor"/>
+</p>
+
+<p align="center">
+  🫛 <b>Pair Extraordinaire</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🦈 <b>Pull Shark x2</b> &nbsp;&nbsp;|&nbsp;&nbsp;
+  🌙 <b>Arctic Code Vault Contributor</b>
+</p>
+
+<br>
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=nursen-akay73&theme=gruvbox&no-frame=true&margin-w=15" />
 </p>
