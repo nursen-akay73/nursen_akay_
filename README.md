@@ -131,14 +131,3 @@ Artificial Intelligence • NLP • Blockchain • Backend Systems • Automatio
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
-
-## 🚀 Featured Projects
-
-### 🏥 LiverAId
-AI-assisted liver disease risk prediction system using machine learning and traditional medical scoring methods.
-
-### 📱 Mobile Health Applications
-React Native based healthcare applications.
-
-### 🤖 AI & NLP Projects
-Experiments in machine learning, prompt engineering and natural language processing.
